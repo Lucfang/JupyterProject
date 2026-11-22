@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "user_id": 10001,
+      "username": "xiaoming_01",
+      "nickname": "小明",
+      "gender": "male",
+      "phone": "138****1234",
+      "avatar": "https://example.com/avatar/10001.jpg",
+      "register_time": "2025-03-12 08:22:15",
+      "is_vip": true,
+      "status": "active",
+      "tags": [
+        "读书",
+        "篮球",
+        "python"
+      ],
+      "address": {
+        "province": "山西省",
+        "city": "忻州市",
+        "detail": "河曲县XX街道12号"
+      }
+    },
+    {
+      "user_id": 10002,
+      "username": "lisi99",
+      "nickname": "李四",
+      "gender": "female",
+      "phone": "135****5678",
+      "avatar": "https://example.com/avatar/10002.jpg",
+      "register_time": "2025-05-20 14:10:33",
+      "is_vip": false,
+      "status": "active",
+      "tags": [
+        "追剧",
+        "美食"
+      ],
+      "address": {
+        "province": "北京市",
+        "city": "北京市",
+        "detail": "朝阳区XX小区"
+      }
+    },
+    {
+      "user_id": 10003,
+      "username": "wangwu_666",
+      "nickname": "王五",
+      "gender": null,
+      "phone": null,
+      "avatar": "",
+      "register_time": "2024-11-05 19:45:02",
+      "is_vip": false,
+      "status": "ban",
+      "tags": [],
+      "address": null
+    },
+    {
+      "user_id": 10004,
+      "username": "zhaoliu2026",
+      "nickname": "",
+      "gender": "male",
+      "phone": "139****9012",
+      "avatar": "https://example.com/avatar/10004.jpg",
+      "register_time": "2026-01-08 10:05:41",
+      "is_vip": true,
+      "status": "active",
+      "tags": [
+        "摄影",
+        "骑行",
+        "数据分析"
+      ]
+    },
+    {
+      "user_id": 10005,
+      "username": "xiaoming_01",
+      "nickname": "小明",
+      "gender": "male",
+      "phone": "138****1234",
+      "avatar": "https://example.com/avatar/10001.jpg",
+      "register_time": "2025-03-12 08:22:15",
+      "is_vip": true,
+      "status": "active",
+      "tags": [
+        "读书",
+        "篮球",
+        "python"
+      ],
+      "address": {
+        "province": "山西省",
+        "city": "忻州市",
+        "detail": "河曲县XX街道12号"
+      }
+    },
+    {
+      "user_id": 10006,
+      "username": "qianqi_test",
+      "nickname": "钱七",
+      "gender": "female",
+      "phone": "137****3456",
+      "avatar": "https://example.com/avatar/10006.jpg",
+      "register_time": "2025-09-30 23:14:22",
+      "is_vip": false,
+      "status": "logout",
+      "tags": [
+        "音乐"
+      ],
+      "address": {
+        "province": "上海市",
+        "city": "上海市",
+        "detail": "浦东新区XX路"
+      }
+    }
+  ]
+}
